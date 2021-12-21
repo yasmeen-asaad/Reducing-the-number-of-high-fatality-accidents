@@ -1,5 +1,5 @@
 # Reducing-the-number-of-high-fatality-accidents
-Data Camp Competitions for create a report  for reducing the number of high fatality accidents <br>
+Data Camp Competitions for create a report about reducing the number of high fatality accidents <br>
 Create a report that covers the following:<br>
 
 What time of day and what day of week do most major incidents happen? <br>
